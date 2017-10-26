@@ -1,21 +1,21 @@
 fileFormatVersion: 2
-guid: 2b7f2095fd51a644395b1b79ff6105e7
-timeCreated: 1509036246
+guid: 7c723333a5112df459cf4d5ea2e4cea8
+timeCreated: 1509037369
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: 2x_0
-    21300002: 2x_1
-    21300004: 2x_2
-    21300006: 2x_3
-    21300008: 2x_4
-    21300010: 2x_5
-    21300012: 2x_6
-    21300014: 2x_7
-    21300016: 2x_8
-    21300018: 2x_9
-    21300020: 2x_10
-    21300022: 2x_11
+    21300000: 2x-Flip_0
+    21300002: 2x-Flip_1
+    21300004: 2x-Flip_2
+    21300006: 2x-Flip_3
+    21300008: 2x-Flip_4
+    21300010: 2x-Flip_5
+    21300012: 2x-Flip_6
+    21300014: 2x-Flip_7
+    21300016: 2x-Flip_8
+    21300018: 2x-Flip_9
+    21300020: 2x-Flip_10
+    21300022: 2x-Flip_11
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -90,7 +90,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2x_0
+      name: 2x-Flip_0
       rect:
         serializedVersion: 2
         x: 57
@@ -104,7 +104,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_1
+      name: 2x-Flip_1
       rect:
         serializedVersion: 2
         x: 220
@@ -118,7 +118,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_2
+      name: 2x-Flip_2
       rect:
         serializedVersion: 2
         x: 382
@@ -132,7 +132,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_3
+      name: 2x-Flip_3
       rect:
         serializedVersion: 2
         x: 545
@@ -146,7 +146,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_4
+      name: 2x-Flip_4
       rect:
         serializedVersion: 2
         x: 708
@@ -160,7 +160,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_5
+      name: 2x-Flip_5
       rect:
         serializedVersion: 2
         x: 871
@@ -174,7 +174,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_6
+      name: 2x-Flip_6
       rect:
         serializedVersion: 2
         x: 1033
@@ -188,7 +188,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_7
+      name: 2x-Flip_7
       rect:
         serializedVersion: 2
         x: 1196
@@ -202,7 +202,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_8
+      name: 2x-Flip_8
       rect:
         serializedVersion: 2
         x: 1359
@@ -216,7 +216,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_9
+      name: 2x-Flip_9
       rect:
         serializedVersion: 2
         x: 1522
@@ -230,7 +230,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_10
+      name: 2x-Flip_10
       rect:
         serializedVersion: 2
         x: 1685
@@ -244,7 +244,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 2x_11
+      name: 2x-Flip_11
       rect:
         serializedVersion: 2
         x: 1847
